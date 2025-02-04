@@ -1,12 +1,12 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Shahnawaj01)
-<h1 align="center">Hi 👋, I'm Shahnawaj Kyum Ansari</h1>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Raman2212)
+<h1 align="center">Hi 👋, I'm Raman Kumar</h1>
 <h3 align="center">A passionate FullStack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahnawaj01&label=Profile%20views&color=0e75b6&style=flat" alt="Shahnawaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahnawaj01&label=Profile%20views&color=0e75b6&style=flat" alt="Raman" /> </p>
 
-<p align="left"> <a href="https://github.com/Shahnawaj01" target="blank"><img src="https://img.shields.io/twitter/follow/Shahnawaz?logo=twitter&style=for-the-badge" alt="Shahnawaz" </p>
+<p align="left"> <a href="https://github.com/Raman2212" target="blank"><img src="https://img.shields.io/twitter/follow/raman?logo=twitter&style=for-the-badge" alt="Raman" </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -14,15 +14,15 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **ansarishahnawaj961@gmail.com**
+- 📫 How to reach me **rk9135691@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Shahnawaj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahnawaz" height="30" width="40" /></a>
-<a href="https://github.com/Shahnawaj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahnawaz" height="30" width="40" /></a>
-<a href="https://github.com/Shahnawaj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahnawaz" height="30" width="40" /></a>
-<a href="https://github.com/Shahnawaj01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=Shahnawaz" height="30" width="40" /></a>
+<a href="https://github.com/Raman2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Raman" height="30" width="40" /></a>
+<a href="https://github.com/Raman2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raman" height="30" width="40" /></a>
+<a href="https://github.com/Raman2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raman" height="30" width="40" /></a>
+<a href="https://github.com/Raman2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=Raman" height="30" width="40" /></a>
 </p>
 
 ## __Skills__
@@ -114,7 +114,7 @@
 <h3 align="left">Github Stats:</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav1603&show_icons=true&locale=en" alt="Shahnawaj01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raman2212&show_icons=true&locale=en" alt="Raman2212" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnawaj01&" alt="Shahnawaj01" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahnawaj01&show_icons=true&locale=en&layout=compact" alt="Shahnawaj01" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raman2212&" alt="Raman2212" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raman2212&show_icons=true&locale=en&layout=compact" alt="Raman2212" /></p>
